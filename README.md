@@ -1,0 +1,2 @@
+# CalcDistancePyTrial
+pythonによる距離計算トライアル
